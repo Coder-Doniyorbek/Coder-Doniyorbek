@@ -58,8 +58,6 @@
 
 🔗 [Rassom AI Bot](https://t.me/Rassom_Chizadigan_AI_bot) — **AI yordamida rasmlar yaratadigan Telegram bot**
 
----
-
 ### 💬 ChatGPT Telegram Bot
 <p align="center">
   <img src="assets/project2.png" width="300"/>
