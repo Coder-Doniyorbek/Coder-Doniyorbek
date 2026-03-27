@@ -120,7 +120,11 @@
 
 ## ⚡ Motivatsiya
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+  💡 "Kod yozing, xatolarni qabul qiling, va har doim yangi narsalarni o‘rganing!" 🚀  
+  <br/>
+  🌟 "Innovatsiya — har bir kichik qadamda yashaydi."  
+  <br/>
+  🔥 "Fikrni amaliyotga aylantirish eng kuchli motivatsiya."  
 </p>
 
 ---
