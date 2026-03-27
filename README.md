@@ -89,16 +89,16 @@
 
 ## 📊 GitHub Statistikalar
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Robotech203&show_icons=true&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Coder-Doniyorbek&show_icons=true&theme=radical&hide_border=true"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Robotech203&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Coder-Doniyorbek&theme=radical&hide_border=true"/>
 </p>
 
 ---
 
 ## 🧠 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Robotech203&theme=react-dark&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Coder-Doniyorbek&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
