@@ -117,16 +117,15 @@
 
 ---
 
-  <section class="max-w-4xl mx-auto py-8 px-4">
+## ⚡ Motivatsiya
+ <section class="max-w-4xl mx-auto py-8 px-4">
         <h2 class="text-2xl font-bold mb-4">💻 “Kod - bu fikringni dunyoga ko'rsatish usuli !”</h2>
         <div class="flex gap-4 justify-center flex-wrap">
             <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmIwZzFrdnQ5MDQ5NDR0ZW03OGpnd2pmNGttOXZodnlyZmk4c3NodyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="Kod yozish 1">
             <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXRsbjFyZGs4bGx6dXAwY21hc29zdGkwY21iM3B5dWI2eXBpeTEzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3NE7JhJgZBHlMfmNEa/giphy.gif" width="200" alt="Kod yozish 2">
         </div>
     </section>
----
-
-## ⚡ Motivatsiya
+    
 <p align="center">
   💡 "Kod yozing, xatolarni qabul qiling, va har doim yangi narsalarni o‘rganing!" 🚀  
   <br/>
