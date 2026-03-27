@@ -136,6 +136,8 @@ AI/NLP loyihalari, chat va Telegram botlar
 Robototexnika va avtomatlashtirilgan tizimlar
 Zamonaviy web-loyihalarni yaratish va optimallashtirish.
 
+---
+
 <section class="max-w-4xl mx-auto py-8 px-4 bg-white shadow rounded-lg my-6">
         <h2 class="text-2xl font-bold mb-4">📬 Men bilan bog‘laning</h2>
         <ul class="list-disc list-inside space-y-2">
