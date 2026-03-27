@@ -136,10 +136,19 @@
 
   ---
 
-## 🧑‍💻 Maqsad
-- 🚀 Professional dasturchi bo‘lish  
-- 💡 Innovatsion loyihalar yaratish  
-- 🌍 Foydalanuvchilar uchun qulay va zamonaviy tizimlar ishlab chiqish
+## ✨ Shaxsiy maqsad va qiziqishlar
+Yosh dasturchi, 15 yosh, Zomindanman. Web va robototexnikaga juda qiziqaman, shu sababli o‘z bilimlarimni doimiy ravishda kengaytiraman.
+
+Maqsadim: Professional dasturchi bo‘lib, foydalanuvchilar uchun zamonaviy, interaktiv va qulay web-ilovalar yaratish.
+
+🚀 Kelajakda Python va Full-Stack texnologiyalar yordamida innovatsion loyihalarni ishlab chiqish va AI/NLP texnologiyalarini real dunyo muammolariga tatbiq etish.
+
+🔧 Qiziqishlarim va yo‘nalishlarim:
+
+Web dasturlash: Frontend (React, Tailwind CSS) va Backend (Django, FastAPI)
+AI/NLP loyihalari, chat va Telegram botlar
+Robototexnika va avtomatlashtirilgan tizimlar
+Zamonaviy web-loyihalarni yaratish va optimallashtirish.
 
 ---
 
