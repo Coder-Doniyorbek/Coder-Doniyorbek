@@ -135,14 +135,6 @@
   🔥 "Fikrni amaliyotga aylantirish eng kuchli motivatsiya."  
 </p>
 
----
-  <section class="max-w-4xl mx-auto py-8 px-4 bg-white shadow rounded-lg my-6">
-        <h2 class="text-2xl font-bold mb-4">📊 Men biladigan tillar</h2>
-        <p>
-            <img src="https://camo.githubusercontent.com/14d82665a9ad8800d1fb31c282370618ae102d8cb8c9f0922a1862a9b39376cf/68747470733a2f2f666c616763646e2e636f6d2f33327832342f757a2e706e67" width="24" alt="O'zbek"> O'zbek  
-            <img src="https://camo.githubusercontent.com/9bbaaf9cb00bb4ced0f978dd83f2674e9c6ee3cc7f0108a80f8b3233a021d4e7/68747470733a2f2f666c616763646e2e636f6d2f33327832342f67622e706e67" width="24" alt="Ingliz"> Ingliz
-        </p>
-    </section>
   ---
 
 ## 🧑‍💻 Maqsad
