@@ -17,7 +17,6 @@
 - 🏗️ **Tajriba:** 5+ real loyiha muvaffaqiyatli yakunlangan
 
 ---
-
 ## 🏆 Sertifikatlar
 
 <p align="center">
@@ -25,23 +24,22 @@
 </p>
 
 <p align="center">
-  <img src="assets/cert1.png" width="300" style="margin:10px; border-radius:15px; box-shadow:0 0 20px rgba(0,255,255,0.5);"/>
-  <img src="assets/cert2.png" width="300" style="margin:10px; border-radius:15px; box-shadow:0 0 20px rgba(0,255,255,0.5);"/>
+  <img src="assets/cert1.png" width="200" style="margin:10px; border-radius:15px; box-shadow:0 0 20px rgba(0,255,255,0.5);"/>
+  <img src="assets/cert-backend.png" width="250" style="margin:10px; border-radius:15px; box-shadow:0 0 30px rgba(0,255,255,0.8);"/>
+  <img src="assets/cert2.png" width="200" style="margin:10px; border-radius:15px; box-shadow:0 0 20px rgba(0,255,255,0.5);"/>
 </p>
 
 <p align="center">
-  <img src="assets/cert3.png" width="300" style="margin:10px; border-radius:15px; box-shadow:0 0 20px rgba(0,255,255,0.5);"/>
-  <img src="assets/cert4.png" width="300" style="margin:10px; border-radius:15px; box-shadow:0 0 20px rgba(0,255,255,0.5);"/>
+  <img src="assets/cert3.png" width="200" style="margin:10px; border-radius:15px; box-shadow:0 0 20px rgba(0,255,255,0.5);"/>
+  <img src="assets/cert4.png" width="200" style="margin:10px; border-radius:15px; box-shadow:0 0 20px rgba(0,255,255,0.5);"/>
 </p>
 
 <p align="center">
   🎓 <strong>Python Backend Development</strong> • Zomin IT Park  
   <br/>
-  🚀 Shuningdek, bir nechta boshqa IT sertifikatlar va kurslar
+  🚀 Boshqa IT sertifikatlar va kurslar
 </p>
-
 ---
-
 ## 🛠 Texnologiyalar
 
 <p align="center">
