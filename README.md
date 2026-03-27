@@ -153,7 +153,7 @@ Zamonaviy web-loyihalarni yaratish va optimallashtirish.
   <a href="https://t.me/doniyorbek_coder">
     <img src="https://img.shields.io/badge/Telegram-00AFF0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="mailto:coderdoniyorbek@gmail.com">
+  ✉️ Email: <a href="mailto:coderdoniyorbek@gmail.com">coderdoniyorbek@gmail.com</a>
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/Robotech203">
