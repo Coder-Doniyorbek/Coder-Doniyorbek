@@ -101,18 +101,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Coder-Doniyorbek&theme=react-dark&hide_border=true"/>
 </p>
 ---
-## 📊 GitHub Statistika
 
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-Doniyorbek&layout=compact&theme=radical&hide_border=true"/>
-  <br/>
-  <!-- Eng muhim loyihalar -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Coder-Doniyorbek&repo=portfolio-web&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Coder-Doniyorbek&repo=Rassom-AI-Bot&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Coder-Doniyorbek&repo=ChatGPT-Telegram-Bot&theme=radical"/>
-</p>
----
 
 ## 📬 Bog‘lanish
 <p align="center">
