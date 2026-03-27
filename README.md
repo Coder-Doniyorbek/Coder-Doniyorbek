@@ -100,20 +100,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Coder-Doniyorbek&theme=react-dark&hide_border=true"/>
 </p>
----
-
-## 📬 Bog‘lanish
-<p align="center">
-  <a href="https://t.me/doniyorbek_coder">
-    <img src="https://img.shields.io/badge/Telegram-00AFF0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-  <a href="mailto:coderdoniyorbek@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Robotech203">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-  </a>
-</p>
 
 ---
 
@@ -149,6 +135,33 @@ Web dasturlash: Frontend (React, Tailwind CSS) va Backend (Django, FastAPI)
 AI/NLP loyihalari, chat va Telegram botlar
 Robototexnika va avtomatlashtirilgan tizimlar
 Zamonaviy web-loyihalarni yaratish va optimallashtirish.
+
+---
+
+## 📬 Bog‘lanish
+<section class="max-w-4xl mx-auto py-8 px-4 bg-white shadow rounded-lg my-6">
+        <h2 class="text-2xl font-bold mb-4">📬 Men bilan bog‘laning</h2>
+        <ul class="list-disc list-inside space-y-2">
+            <li>🌐 GitHub: <a href="https://github.com/Coder-Doniyorbek" class="text-blue-600 underline">Coder-Doniyorbek</a></li>
+            <li>💬 Telegram: <a href="https://t.me/doniyorbek_coder" class="text-blue-600 underline">@doniyorbek_coder</a></li>
+            <li>✉️ Email: coderdoniyorbek@gmail.com</li>
+            <li>🌐 LinkedIn: <a href="https://www.linkedin.com/in/doniyorbek-normurodov-694a16376/" class="text-blue-600 underline">Doniyorbek</a></li>
+            <li>🌐 Portfolio: <a href="https://github.com/Robotech203/portfolio-web" class="text-blue-600 underline">Portfolio Web App</a></li>
+        </ul>
+    </section>
+    <br>
+<p align="center">
+  <a href="https://t.me/doniyorbek_coder">
+    <img src="https://img.shields.io/badge/Telegram-00AFF0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="mailto:coderdoniyorbek@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Robotech203">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
 
 ---
 
