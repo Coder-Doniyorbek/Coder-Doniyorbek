@@ -26,12 +26,6 @@
 
 <p align="center">
   <img src="assets/cert1.png" width="300" style="margin:10px; border-radius:15px; box-shadow:0 0 20px rgba(0,255,255,0.5);"/>
-</p>
-  <ul class="list-disc list-inside space-y-2">
-        <li>🎓 <strong>Python Backend Development</strong> – Zomin IT Park, 2025</li>
-        <li>📄 <a href="https://uzcorp-certificates.uz/certificate/801/" class="text-blue-600 underline">PDF nusxasi</a></li>
-  </ul>
-<p align="center">
   <img src="assets/cert2.png" width="300" style="margin:10px; border-radius:15px; box-shadow:0 0 20px rgba(0,255,255,0.5);"/>
 </p>
 
