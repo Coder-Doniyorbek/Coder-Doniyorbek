@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/cert1.png" width="300" style="margin:10px; border-radius:15px; box-shadow:0 0 20px rgba(0,255,255,0.5);"/>
+  <img src="assets/cert1.png" width="350" style="margin:10px; border-radius:15px; box-shadow:0 0 20px rgba(0,255,255,0.5);"/>
   <img src="assets/cert2.png" width="300" style="margin:10px; border-radius:15px; box-shadow:0 0 20px rgba(0,255,255,0.5);"/>
 </p>
 
