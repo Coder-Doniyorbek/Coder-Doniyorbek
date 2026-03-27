@@ -117,6 +117,7 @@
 </p>
 
 ---
+
   <section class="max-w-4xl mx-auto py-8 px-4">
         <h2 class="text-2xl font-bold mb-4">💻 “Kod - bu fikringni dunyoga ko'rsatish usuli !”</h2>
         <div class="flex gap-4 justify-center flex-wrap">
