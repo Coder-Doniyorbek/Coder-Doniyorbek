@@ -51,40 +51,45 @@
 
 ## 🚀 Loyihalar
 
-### 🤖 Rassom AI Bot
-<p align="center">
-  <img src="assets/project1.png" width="300"/>
-</p>
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 40px;">
 
-🔗 [Rassom AI Bot](https://t.me/Rassom_Chizadigan_AI_bot) — **AI yordamida rasmlar yaratadigan Telegram bot**
+  <!-- Rassom AI Bot -->
+  <div style="text-align: center; max-width: 250px;">
+    <a href="https://t.me/Rassom_Chizadigan_AI_bot" target="_blank">
+      <img src="assets/project1.png" width="250" style="border-radius:15px; box-shadow:0 0 20px rgba(0,255,255,0.5);"/>
+    </a>
+    <h3>🤖 Rassom AI Bot</h3>
+    <p>AI yordamida rasmlar yaratadigan Telegram bot</p>
+  </div>
 
----
+  <!-- ChatGPT Telegram Bot -->
+  <div style="text-align: center; max-width: 250px;">
+    <a href="https://t.me/Uz_ChatGPT_AI_bot" target="_blank">
+      <img src="assets/project2.png" width="250" style="border-radius:15px; box-shadow:0 0 20px rgba(0,255,255,0.5);"/>
+    </a>
+    <h3>💬 ChatGPT Bot</h3>
+    <p>AI yordamida interaktiv chat tajribasi</p>
+  </div>
 
-### 💬 ChatGPT Telegram Bot
-<p align="center">
-  <img src="assets/project2.png" width="300"/>
-</p>
+  <!-- Portfolio Web Site -->
+  <div style="text-align: center; max-width: 250px;">
+    <a href="https://www.doniyorbek-coder.uz/" target="_blank">
+      <img src="assets/project3.png" width="250" style="border-radius:15px; box-shadow:0 0 20px rgba(0,255,255,0.5);"/>
+    </a>
+    <h3>🌐 Portfolio</h3>
+    <p>Shaxsiy web portfolio sayt</p>
+  </div>
 
-🔗 [ChatGPT Telegram Bot](https://t.me/Uz_ChatGPT_AI_bot) — **AI yordamida interaktiv chat tajribasi**
+  <!-- Jarvis AI Assistant -->
+  <div style="text-align: center; max-width: 250px;">
+    <a href="#" target="_blank">
+      <img src="assets/project4.png" width="250" style="border-radius:15px; box-shadow:0 0 20px rgba(0,255,255,0.5);"/>
+    </a>
+    <h3>🤖 Jarvis AI Assistant</h3>
+    <p>AI asosidagi shaxsiy yordamchi loyihasi</p>
+  </div>
 
----
-
-### 🌐 Portfolio Web Site
-<p align="center">
-  <img src="assets/project3.png" width="300"/>
-</p>
-
-🔗 [Portfolio](https://www.doniyorbek-coder.uz/) — **Shaxsiy web portfolio sayt**
-
----
-
-### Jarvis AI Assistant
-<p align="center">
-  <img src="assets/project4.png" width="300"/>
-</p>
-
-🔗 AI asosidagi **shaxsiy yordamchi** loyihasi  
-
+</div>
 ---
 
 ## 📊 GitHub Statistikalar
