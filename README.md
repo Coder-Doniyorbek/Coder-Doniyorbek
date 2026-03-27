@@ -54,7 +54,7 @@
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 40px;">
 
   <!-- Rassom AI Bot -->
-  <div style="text-align: center; max-width: 250px;">
+  <div style="text-align: center; width: 250px;">
     <a href="https://t.me/Rassom_Chizadigan_AI_bot" target="_blank">
       <img src="assets/project1.png" width="250" style="border-radius:15px; box-shadow:0 0 20px rgba(0,255,255,0.5);"/>
     </a>
@@ -63,7 +63,7 @@
   </div>
 
   <!-- ChatGPT Telegram Bot -->
-  <div style="text-align: center; max-width: 250px;">
+  <div style="text-align: center; width: 250px;">
     <a href="https://t.me/Uz_ChatGPT_AI_bot" target="_blank">
       <img src="assets/project2.png" width="250" style="border-radius:15px; box-shadow:0 0 20px rgba(0,255,255,0.5);"/>
     </a>
@@ -72,7 +72,7 @@
   </div>
 
   <!-- Portfolio Web Site -->
-  <div style="text-align: center; max-width: 250px;">
+  <div style="text-align: center; width: 250px;">
     <a href="https://www.doniyorbek-coder.uz/" target="_blank">
       <img src="assets/project3.png" width="250" style="border-radius:15px; box-shadow:0 0 20px rgba(0,255,255,0.5);"/>
     </a>
@@ -81,7 +81,7 @@
   </div>
 
   <!-- Jarvis AI Assistant -->
-  <div style="text-align: center; max-width: 250px;">
+  <div style="text-align: center; width: 250px;">
     <a href="#" target="_blank">
       <img src="assets/project4.png" width="250" style="border-radius:15px; box-shadow:0 0 20px rgba(0,255,255,0.5);"/>
     </a>
