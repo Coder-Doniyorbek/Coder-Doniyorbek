@@ -53,14 +53,16 @@
 
 ### 🤖 Rassom AI Bot
 <p align="center">
-  <img src="assets/project1.png" width="300" style="margin:10px; border-radius:15px; box-shadow:0 0 20px rgba(0,255,255,0.5);"/>
+  <img src="assets/project1.png" width="300"/>
 </p>
 
 🔗 [Rassom AI Bot](https://t.me/Rassom_Chizadigan_AI_bot) — **AI yordamida rasmlar yaratadigan Telegram bot**
 
+---
+
 ### 💬 ChatGPT Telegram Bot
 <p align="center">
-  <img src="assets/project2.png" width="300" style="margin:10px; border-radius:15px; box-shadow:0 0 20px rgba(0,255,255,0.5);"/>
+  <img src="assets/project2.png" width="300"/>
 </p>
 
 🔗 [ChatGPT Telegram Bot](https://t.me/Uz_ChatGPT_AI_bot) — **AI yordamida interaktiv chat tajribasi**
