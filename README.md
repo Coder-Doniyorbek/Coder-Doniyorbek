@@ -1,4 +1,4 @@
-# 👋 Assalomu alaykum! Men Doniyorbek  
+# 👋 Assalomu alaykum! Men Doniyorbek Normurodov  
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Python+Backend+Developer;Full-Stack+Engineer;AI+%2F+NLP+Enthusiast;Always+Learning+New+Things+🚀" />
